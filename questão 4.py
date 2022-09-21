@@ -10,7 +10,7 @@ if numero > numero_2 and numero > numero_3:
     if numero_2 > numero_3:
         menor = numero_3
     else:
-        menor_numero_2
+        menor = numero_2
 elif numero_2 > numero and numero_2 > numero_3:
     maior = numero_2
     if numero > numero_3:
